@@ -34,7 +34,7 @@ epochs: 35
 
 # network architecture [<neurons in hidden layer>, <neurons in hidden layer>]
 # Size of input layer not listed - dependent on evr modules and types included (see 'evr_modules' and 'erv_types' above)
-layers: [80,80]
+layers: [80, 40]
 
 # Number of consequetive training iterations to allow without decreasing the val_loss by at least min_delta 
 patience: 10
