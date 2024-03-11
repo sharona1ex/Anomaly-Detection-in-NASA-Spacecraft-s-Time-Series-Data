@@ -1,0 +1,1166 @@
+2024-03-11 11:04:26,137 INFO 82 channels found for processing.
+2024-03-11 11:04:26,144 INFO Stream # 1: P-1
+2024-03-11 11:14:32,761 INFO normalized prediction error: 0.09
+2024-03-11 11:14:33,687 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2024-03-11 11:14:33,688 INFO Total true positives: 3
+2024-03-11 11:14:33,688 INFO Total false positives: 0
+2024-03-11 11:14:33,688 INFO Total false negatives: 0
+
+2024-03-11 11:14:33,696 INFO Stream # 2: S-1
+2024-03-11 11:24:36,636 INFO normalized prediction error: 0.18
+2024-03-11 11:24:37,371 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 11:24:37,371 INFO Total true positives: 4
+2024-03-11 11:24:37,371 INFO Total false positives: 0
+2024-03-11 11:24:37,371 INFO Total false negatives: 0
+
+2024-03-11 11:24:37,374 INFO Stream # 3: E-1
+2024-03-11 11:35:44,059 INFO normalized prediction error: 0.07
+2024-03-11 11:35:45,070 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 11:35:45,071 INFO Total true positives: 6
+2024-03-11 11:35:45,071 INFO Total false positives: 1
+2024-03-11 11:35:45,071 INFO Total false negatives: 0
+
+2024-03-11 11:35:45,074 INFO Stream # 4: E-2
+2024-03-11 11:46:50,185 INFO normalized prediction error: 0.06
+2024-03-11 11:46:50,767 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 11:46:50,767 INFO Total true positives: 7
+2024-03-11 11:46:50,767 INFO Total false positives: 1
+2024-03-11 11:46:50,767 INFO Total false negatives: 0
+
+2024-03-11 11:46:50,770 INFO Stream # 5: E-3
+2024-03-11 11:56:57,058 INFO normalized prediction error: 0.02
+2024-03-11 11:56:57,804 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 11:56:57,804 INFO Total true positives: 8
+2024-03-11 11:56:57,805 INFO Total false positives: 2
+2024-03-11 11:56:57,805 INFO Total false negatives: 0
+
+2024-03-11 11:56:57,808 INFO Stream # 6: E-4
+2024-03-11 12:08:04,634 INFO normalized prediction error: 0.05
+2024-03-11 12:08:05,210 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 12:08:05,211 INFO Total true positives: 9
+2024-03-11 12:08:05,211 INFO Total false positives: 2
+2024-03-11 12:08:05,211 INFO Total false negatives: 0
+
+2024-03-11 12:08:05,214 INFO Stream # 7: E-5
+2024-03-11 12:18:28,807 INFO normalized prediction error: 0.09
+2024-03-11 12:18:29,419 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 12:18:29,420 INFO Total true positives: 10
+2024-03-11 12:18:29,420 INFO Total false positives: 2
+2024-03-11 12:18:29,420 INFO Total false negatives: 0
+
+2024-03-11 12:18:29,423 INFO Stream # 8: E-6
+2024-03-11 12:24:38,107 INFO normalized prediction error: 0.00
+2024-03-11 12:24:39,051 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 12:24:39,051 INFO Total true positives: 11
+2024-03-11 12:24:39,051 INFO Total false positives: 2
+2024-03-11 12:24:39,051 INFO Total false negatives: 0
+
+2024-03-11 12:24:39,055 INFO Stream # 9: E-7
+2024-03-11 12:31:44,867 INFO normalized prediction error: 0.02
+2024-03-11 12:31:45,615 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 12:31:45,616 INFO Total true positives: 12
+2024-03-11 12:31:45,616 INFO Total false positives: 2
+2024-03-11 12:31:45,616 INFO Total false negatives: 0
+
+2024-03-11 12:31:45,620 INFO Stream # 10: E-8
+2024-03-11 12:42:55,490 INFO normalized prediction error: 0.07
+2024-03-11 12:42:55,967 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 12:42:55,967 INFO Total true positives: 12
+2024-03-11 12:42:55,967 INFO Total false positives: 2
+2024-03-11 12:42:55,967 INFO Total false negatives: 1
+
+2024-03-11 12:42:55,972 INFO Stream # 11: E-9
+2024-03-11 12:49:50,319 INFO normalized prediction error: 0.05
+2024-03-11 12:49:50,741 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 12:49:50,742 INFO Total true positives: 13
+2024-03-11 12:49:50,742 INFO Total false positives: 2
+2024-03-11 12:49:50,742 INFO Total false negatives: 1
+
+2024-03-11 12:49:50,745 INFO Stream # 12: E-10
+2024-03-11 13:00:59,681 INFO normalized prediction error: 0.09
+2024-03-11 13:01:00,578 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 13:01:00,578 INFO Total true positives: 15
+2024-03-11 13:01:00,578 INFO Total false positives: 3
+2024-03-11 13:01:00,579 INFO Total false negatives: 1
+
+2024-03-11 13:01:00,582 INFO Stream # 13: E-11
+2024-03-11 13:12:09,748 INFO normalized prediction error: 0.08
+2024-03-11 13:12:10,607 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 13:12:10,607 INFO Total true positives: 17
+2024-03-11 13:12:10,607 INFO Total false positives: 4
+2024-03-11 13:12:10,607 INFO Total false negatives: 1
+
+2024-03-11 13:12:10,611 INFO Stream # 14: E-12
+2024-03-11 13:23:18,678 INFO normalized prediction error: 0.07
+2024-03-11 13:23:19,616 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 13:23:19,616 INFO Total true positives: 19
+2024-03-11 13:23:19,617 INFO Total false positives: 5
+2024-03-11 13:23:19,617 INFO Total false negatives: 1
+
+2024-03-11 13:23:19,621 INFO Stream # 15: E-13
+2024-03-11 13:34:28,408 INFO normalized prediction error: 0.05
+2024-03-11 13:34:29,504 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2024-03-11 13:34:29,504 INFO Total true positives: 21
+2024-03-11 13:34:29,505 INFO Total false positives: 5
+2024-03-11 13:34:29,505 INFO Total false negatives: 2
+
+2024-03-11 13:34:29,510 INFO Stream # 16: A-1
+2024-03-11 13:39:50,155 INFO normalized prediction error: 0.01
+2024-03-11 13:39:50,835 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 13:39:50,836 INFO Total true positives: 22
+2024-03-11 13:39:50,836 INFO Total false positives: 5
+2024-03-11 13:39:50,836 INFO Total false negatives: 2
+
+2024-03-11 13:39:50,840 INFO Stream # 17: D-1
+2024-03-11 13:44:36,944 INFO normalized prediction error: 0.06
+2024-03-11 13:44:37,449 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 13:44:37,449 INFO Total true positives: 23
+2024-03-11 13:44:37,450 INFO Total false positives: 5
+2024-03-11 13:44:37,450 INFO Total false negatives: 2
+
+2024-03-11 13:44:37,454 INFO Stream # 18: P-2
+2024-03-11 13:50:46,531 INFO normalized prediction error: 0.06
+2024-03-11 13:50:47,124 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 13:50:47,124 INFO Total true positives: 24
+2024-03-11 13:50:47,124 INFO Total false positives: 5
+2024-03-11 13:50:47,125 INFO Total false negatives: 2
+
+2024-03-11 13:50:47,130 INFO Stream # 19: P-3
+2024-03-11 14:01:54,861 INFO normalized prediction error: 0.04
+2024-03-11 14:01:55,376 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 14:01:55,376 INFO Total true positives: 25
+2024-03-11 14:01:55,376 INFO Total false positives: 5
+2024-03-11 14:01:55,376 INFO Total false negatives: 2
+
+2024-03-11 14:01:55,381 INFO Stream # 20: D-2
+2024-03-11 14:11:07,388 INFO normalized prediction error: 0.36
+2024-03-11 14:11:08,050 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 14:11:08,051 INFO Total true positives: 26
+2024-03-11 14:11:08,051 INFO Total false positives: 5
+2024-03-11 14:11:08,051 INFO Total false negatives: 2
+
+2024-03-11 14:11:08,061 INFO Stream # 21: D-3
+2024-03-11 14:16:19,663 INFO normalized prediction error: 0.06
+2024-03-11 14:16:20,460 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 14:16:20,461 INFO Total true positives: 27
+2024-03-11 14:16:20,461 INFO Total false positives: 5
+2024-03-11 14:16:20,461 INFO Total false negatives: 2
+
+2024-03-11 14:16:20,468 INFO Stream # 22: D-4
+2024-03-11 14:24:33,166 INFO normalized prediction error: 0.09
+2024-03-11 14:24:33,693 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 14:24:33,693 INFO Total true positives: 28
+2024-03-11 14:24:33,693 INFO Total false positives: 5
+2024-03-11 14:24:33,693 INFO Total false negatives: 2
+
+2024-03-11 14:24:33,699 INFO Stream # 23: A-2
+2024-03-11 14:34:32,824 INFO normalized prediction error: 0.08
+2024-03-11 14:34:33,581 INFO Channel Stats: TP: 1  FP: 2  FN: 0
+2024-03-11 14:34:33,581 INFO Total true positives: 29
+2024-03-11 14:34:33,581 INFO Total false positives: 7
+2024-03-11 14:34:33,581 INFO Total false negatives: 2
+
+2024-03-11 14:34:33,586 INFO Stream # 24: A-3
+2024-03-11 14:45:45,986 INFO normalized prediction error: 0.05
+2024-03-11 14:45:47,189 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 14:45:47,190 INFO Total true positives: 30
+2024-03-11 14:45:47,190 INFO Total false positives: 7
+2024-03-11 14:45:47,190 INFO Total false negatives: 2
+
+2024-03-11 14:45:47,205 INFO Stream # 25: A-4
+2024-03-11 14:56:55,178 INFO normalized prediction error: 0.06
+2024-03-11 14:56:56,346 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 14:56:56,346 INFO Total true positives: 31
+2024-03-11 14:56:56,346 INFO Total false positives: 8
+2024-03-11 14:56:56,347 INFO Total false negatives: 2
+
+2024-03-11 14:56:56,354 INFO Stream # 26: G-1
+2024-03-11 15:08:08,334 INFO normalized prediction error: 0.07
+2024-03-11 15:08:08,871 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2024-03-11 15:08:08,871 INFO Total true positives: 31
+2024-03-11 15:08:08,871 INFO Total false positives: 9
+2024-03-11 15:08:08,872 INFO Total false negatives: 3
+
+2024-03-11 15:08:08,877 INFO Stream # 27: G-2
+2024-03-11 15:13:13,556 INFO normalized prediction error: 0.01
+2024-03-11 15:13:14,243 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 15:13:14,243 INFO Total true positives: 32
+2024-03-11 15:13:14,243 INFO Total false positives: 9
+2024-03-11 15:13:14,243 INFO Total false negatives: 3
+
+2024-03-11 15:13:14,249 INFO Stream # 28: D-5
+2024-03-11 15:18:04,399 INFO normalized prediction error: 0.14
+2024-03-11 15:18:05,029 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 15:18:05,029 INFO Total true positives: 33
+2024-03-11 15:18:05,029 INFO Total false positives: 9
+2024-03-11 15:18:05,029 INFO Total false negatives: 3
+
+2024-03-11 15:18:05,035 INFO Stream # 29: D-6
+2024-03-11 15:28:11,503 INFO normalized prediction error: 0.03
+2024-03-11 15:28:12,243 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 15:28:12,243 INFO Total true positives: 34
+2024-03-11 15:28:12,243 INFO Total false positives: 9
+2024-03-11 15:28:12,243 INFO Total false negatives: 3
+
+2024-03-11 15:28:12,249 INFO Stream # 30: D-7
+2024-03-11 15:34:21,875 INFO normalized prediction error: 0.06
+2024-03-11 15:34:22,401 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 15:34:22,401 INFO Total true positives: 35
+2024-03-11 15:34:22,402 INFO Total false positives: 9
+2024-03-11 15:34:22,402 INFO Total false negatives: 3
+
+2024-03-11 15:34:22,410 INFO Stream # 31: F-1
+2024-03-11 15:46:34,820 INFO normalized prediction error: 0.10
+2024-03-11 15:46:35,551 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2024-03-11 15:46:35,551 INFO Total true positives: 35
+2024-03-11 15:46:35,551 INFO Total false positives: 10
+2024-03-11 15:46:35,551 INFO Total false negatives: 4
+
+2024-03-11 15:46:35,557 INFO Stream # 32: P-4
+2024-03-11 15:52:41,168 INFO normalized prediction error: 0.01
+2024-03-11 15:52:42,199 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2024-03-11 15:52:42,199 INFO Total true positives: 37
+2024-03-11 15:52:42,199 INFO Total false positives: 10
+2024-03-11 15:52:42,199 INFO Total false negatives: 5
+
+2024-03-11 15:52:42,205 INFO Stream # 33: G-3
+2024-03-11 16:02:48,567 INFO normalized prediction error: 0.01
+2024-03-11 16:02:49,772 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 16:02:49,773 INFO Total true positives: 38
+2024-03-11 16:02:49,773 INFO Total false positives: 11
+2024-03-11 16:02:49,773 INFO Total false negatives: 5
+
+2024-03-11 16:02:49,781 INFO Stream # 34: T-1
+2024-03-11 16:14:00,774 INFO normalized prediction error: 0.04
+2024-03-11 16:14:01,566 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 16:14:01,566 INFO Total true positives: 40
+2024-03-11 16:14:01,566 INFO Total false positives: 11
+2024-03-11 16:14:01,566 INFO Total false negatives: 5
+
+2024-03-11 16:14:01,573 INFO Stream # 35: T-2
+2024-03-11 16:25:17,909 INFO normalized prediction error: 0.05
+2024-03-11 16:25:18,375 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 16:25:18,375 INFO Total true positives: 40
+2024-03-11 16:25:18,375 INFO Total false positives: 11
+2024-03-11 16:25:18,375 INFO Total false negatives: 6
+
+2024-03-11 16:25:18,381 INFO Stream # 36: D-8
+2024-03-11 16:30:26,570 INFO normalized prediction error: 0.02
+2024-03-11 16:30:27,430 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 16:30:27,430 INFO Total true positives: 41
+2024-03-11 16:30:27,430 INFO Total false positives: 11
+2024-03-11 16:30:27,430 INFO Total false negatives: 6
+
+2024-03-11 16:30:27,436 INFO Stream # 37: D-9
+2024-03-11 16:37:31,956 INFO normalized prediction error: 0.04
+2024-03-11 16:37:32,451 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 16:37:32,451 INFO Total true positives: 42
+2024-03-11 16:37:32,452 INFO Total false positives: 11
+2024-03-11 16:37:32,452 INFO Total false negatives: 6
+
+2024-03-11 16:37:32,459 INFO Stream # 38: F-2
+2024-03-11 16:47:41,554 INFO normalized prediction error: 0.07
+2024-03-11 16:47:42,364 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 16:47:42,364 INFO Total true positives: 43
+2024-03-11 16:47:42,364 INFO Total false positives: 11
+2024-03-11 16:47:42,364 INFO Total false negatives: 6
+
+2024-03-11 16:47:42,371 INFO Stream # 39: G-4
+2024-03-11 16:52:28,575 INFO normalized prediction error: 0.00
+2024-03-11 16:52:29,426 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 16:52:29,426 INFO Total true positives: 44
+2024-03-11 16:52:29,426 INFO Total false positives: 11
+2024-03-11 16:52:29,426 INFO Total false negatives: 6
+
+2024-03-11 16:52:29,433 INFO Stream # 40: T-3
+2024-03-11 16:58:45,633 INFO normalized prediction error: 0.02
+2024-03-11 16:58:47,094 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 16:58:47,094 INFO Total true positives: 46
+2024-03-11 16:58:47,094 INFO Total false positives: 11
+2024-03-11 16:58:47,094 INFO Total false negatives: 6
+
+2024-03-11 16:58:47,101 INFO Stream # 41: D-11
+2024-03-11 17:07:07,493 INFO normalized prediction error: 0.02
+2024-03-11 17:07:08,262 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:07:08,262 INFO Total true positives: 47
+2024-03-11 17:07:08,262 INFO Total false positives: 11
+2024-03-11 17:07:08,263 INFO Total false negatives: 6
+
+2024-03-11 17:07:08,269 INFO Stream # 42: D-12
+2024-03-11 17:08:14,612 INFO normalized prediction error: 0.06
+2024-03-11 17:08:15,233 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:08:15,233 INFO Total true positives: 48
+2024-03-11 17:08:15,233 INFO Total false positives: 11
+2024-03-11 17:08:15,233 INFO Total false negatives: 6
+
+2024-03-11 17:08:15,240 INFO Stream # 43: B-1
+2024-03-11 17:13:22,637 INFO normalized prediction error: 0.03
+2024-03-11 17:13:23,548 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:13:23,549 INFO Total true positives: 49
+2024-03-11 17:13:23,549 INFO Total false positives: 11
+2024-03-11 17:13:23,549 INFO Total false negatives: 6
+
+2024-03-11 17:13:23,556 INFO Stream # 44: G-6
+2024-03-11 17:21:35,430 INFO normalized prediction error: 0.02
+2024-03-11 17:21:36,134 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:21:36,134 INFO Total true positives: 50
+2024-03-11 17:21:36,134 INFO Total false positives: 11
+2024-03-11 17:21:36,134 INFO Total false negatives: 6
+
+2024-03-11 17:21:36,141 INFO Stream # 45: G-7
+2024-03-11 17:28:15,702 INFO normalized prediction error: 0.03
+2024-03-11 17:28:16,799 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2024-03-11 17:28:16,799 INFO Total true positives: 53
+2024-03-11 17:28:16,799 INFO Total false positives: 11
+2024-03-11 17:28:16,799 INFO Total false negatives: 6
+
+2024-03-11 17:28:16,806 INFO Stream # 46: P-7
+2024-03-11 17:37:29,415 INFO normalized prediction error: 0.03
+2024-03-11 17:37:30,012 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 17:37:30,012 INFO Total true positives: 54
+2024-03-11 17:37:30,012 INFO Total false positives: 12
+2024-03-11 17:37:30,012 INFO Total false negatives: 6
+
+2024-03-11 17:37:30,019 INFO Stream # 47: R-1
+2024-03-11 17:42:50,211 INFO normalized prediction error: 0.00
+2024-03-11 17:42:51,098 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:42:51,098 INFO Total true positives: 55
+2024-03-11 17:42:51,098 INFO Total false positives: 12
+2024-03-11 17:42:51,098 INFO Total false negatives: 6
+
+2024-03-11 17:42:51,106 INFO Stream # 48: A-5
+2024-03-11 17:45:41,749 INFO normalized prediction error: 0.07
+2024-03-11 17:45:41,997 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:45:41,997 INFO Total true positives: 56
+2024-03-11 17:45:41,997 INFO Total false positives: 12
+2024-03-11 17:45:41,997 INFO Total false negatives: 6
+
+2024-03-11 17:45:42,004 INFO Stream # 49: A-6
+2024-03-11 17:48:31,480 INFO normalized prediction error: 0.02
+2024-03-11 17:48:31,882 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:48:31,882 INFO Total true positives: 57
+2024-03-11 17:48:31,882 INFO Total false positives: 12
+2024-03-11 17:48:31,882 INFO Total false negatives: 6
+
+2024-03-11 17:48:31,890 INFO Stream # 50: A-7
+2024-03-11 17:59:43,857 INFO normalized prediction error: 0.06
+2024-03-11 17:59:44,563 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 17:59:44,563 INFO Total true positives: 58
+2024-03-11 17:59:44,564 INFO Total false positives: 12
+2024-03-11 17:59:44,564 INFO Total false negatives: 6
+
+2024-03-11 17:59:44,572 INFO Stream # 51: D-13
+2024-03-11 18:04:51,300 INFO normalized prediction error: 0.16
+2024-03-11 18:04:52,000 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:04:52,000 INFO Total true positives: 59
+2024-03-11 18:04:52,000 INFO Total false positives: 12
+2024-03-11 18:04:52,001 INFO Total false negatives: 6
+
+2024-03-11 18:04:52,008 INFO Stream # 52: P-2
+2024-03-11 18:10:24,647 INFO normalized prediction error: 0.05
+2024-03-11 18:10:25,102 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:10:25,102 INFO Total true positives: 60
+2024-03-11 18:10:25,102 INFO Total false positives: 12
+2024-03-11 18:10:25,102 INFO Total false negatives: 6
+
+2024-03-11 18:10:25,110 INFO Stream # 53: A-8
+2024-03-11 18:13:42,475 INFO normalized prediction error: 0.13
+2024-03-11 18:13:43,094 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:13:43,094 INFO Total true positives: 61
+2024-03-11 18:13:43,094 INFO Total false positives: 12
+2024-03-11 18:13:43,094 INFO Total false negatives: 6
+
+2024-03-11 18:13:43,102 INFO Stream # 54: A-9
+2024-03-11 18:16:55,469 INFO normalized prediction error: 0.63
+2024-03-11 18:16:56,028 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:16:56,029 INFO Total true positives: 61
+2024-03-11 18:16:56,029 INFO Total false positives: 12
+2024-03-11 18:16:56,029 INFO Total false negatives: 7
+
+2024-03-11 18:16:56,036 INFO Stream # 55: F-3
+2024-03-11 18:23:09,102 INFO normalized prediction error: 0.01
+2024-03-11 18:23:09,528 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:23:09,528 INFO Total true positives: 61
+2024-03-11 18:23:09,529 INFO Total false positives: 12
+2024-03-11 18:23:09,529 INFO Total false negatives: 8
+
+2024-03-11 18:23:09,536 INFO Stream # 56: M-6
+2024-03-11 18:27:12,255 INFO normalized prediction error: 0.05
+2024-03-11 18:27:12,271 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:27:12,271 INFO Total true positives: 62
+2024-03-11 18:27:12,271 INFO Total false positives: 12
+2024-03-11 18:27:12,271 INFO Total false negatives: 8
+
+2024-03-11 18:27:12,283 INFO Stream # 57: M-1
+2024-03-11 18:35:50,452 INFO normalized prediction error: 0.07
+2024-03-11 18:35:50,459 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2024-03-11 18:35:50,460 INFO Total true positives: 62
+2024-03-11 18:35:50,460 INFO Total false positives: 13
+2024-03-11 18:35:50,460 INFO Total false negatives: 9
+
+2024-03-11 18:35:50,467 INFO Stream # 58: M-2
+2024-03-11 18:44:29,755 INFO normalized prediction error: 0.11
+2024-03-11 18:44:29,760 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:44:29,760 INFO Total true positives: 62
+2024-03-11 18:44:29,760 INFO Total false positives: 13
+2024-03-11 18:44:29,760 INFO Total false negatives: 10
+
+2024-03-11 18:44:29,768 INFO Stream # 59: S-2
+2024-03-11 18:47:27,670 INFO normalized prediction error: 0.03
+2024-03-11 18:47:27,684 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:47:27,684 INFO Total true positives: 63
+2024-03-11 18:47:27,684 INFO Total false positives: 13
+2024-03-11 18:47:27,684 INFO Total false negatives: 10
+
+2024-03-11 18:47:27,692 INFO Stream # 60: P-10
+2024-03-11 18:55:04,651 INFO normalized prediction error: 0.02
+2024-03-11 18:55:05,246 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:55:05,247 INFO Total true positives: 64
+2024-03-11 18:55:05,247 INFO Total false positives: 13
+2024-03-11 18:55:05,247 INFO Total false negatives: 10
+
+2024-03-11 18:55:05,258 INFO Stream # 61: T-4
+2024-03-11 19:03:42,999 INFO normalized prediction error: 0.12
+2024-03-11 19:03:43,006 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 19:03:43,006 INFO Total true positives: 64
+2024-03-11 19:03:43,007 INFO Total false positives: 13
+2024-03-11 19:03:43,007 INFO Total false negatives: 11
+
+2024-03-11 19:03:43,015 INFO Stream # 62: T-5
+2024-03-11 19:08:17,136 INFO normalized prediction error: 0.03
+2024-03-11 19:08:17,156 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 19:08:17,156 INFO Total true positives: 65
+2024-03-11 19:08:17,156 INFO Total false positives: 13
+2024-03-11 19:08:17,156 INFO Total false negatives: 11
+
+2024-03-11 19:08:17,165 INFO Stream # 63: F-7
+2024-03-11 19:18:16,562 INFO normalized prediction error: 0.18
+2024-03-11 19:18:16,863 INFO Channel Stats: TP: 3  FP: 1  FN: 0
+2024-03-11 19:18:16,863 INFO Total true positives: 68
+2024-03-11 19:18:16,863 INFO Total false positives: 14
+2024-03-11 19:18:16,863 INFO Total false negatives: 11
+
+2024-03-11 19:18:16,872 INFO Stream # 64: M-3
+2024-03-11 19:26:54,976 INFO normalized prediction error: 0.09
+2024-03-11 19:26:54,988 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 19:26:54,988 INFO Total true positives: 69
+2024-03-11 19:26:54,988 INFO Total false positives: 14
+2024-03-11 19:26:54,988 INFO Total false negatives: 11
+
+2024-03-11 19:26:54,996 INFO Stream # 65: M-4
+2024-03-11 19:35:32,476 INFO normalized prediction error: 0.12
+2024-03-11 19:35:32,489 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 19:35:32,490 INFO Total true positives: 70
+2024-03-11 19:35:32,490 INFO Total false positives: 14
+2024-03-11 19:35:32,490 INFO Total false negatives: 11
+
+2024-03-11 19:35:32,499 INFO Stream # 66: M-5
+2024-03-11 19:43:21,318 INFO normalized prediction error: 0.10
+2024-03-11 19:43:21,328 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 19:43:21,329 INFO Total true positives: 71
+2024-03-11 19:43:21,329 INFO Total false positives: 14
+2024-03-11 19:43:21,329 INFO Total false negatives: 11
+
+2024-03-11 19:43:21,338 INFO Stream # 67: P-15
+2024-03-11 19:51:36,490 INFO normalized prediction error: 0.08
+2024-03-11 19:51:36,532 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 19:51:36,533 INFO Total true positives: 71
+2024-03-11 19:51:36,533 INFO Total false positives: 14
+2024-03-11 19:51:36,533 INFO Total false negatives: 12
+
+2024-03-11 19:51:36,541 INFO Stream # 68: C-1
+2024-03-11 20:00:14,615 INFO normalized prediction error: 0.03
+2024-03-11 20:00:14,633 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2024-03-11 20:00:14,633 INFO Total true positives: 72
+2024-03-11 20:00:14,633 INFO Total false positives: 14
+2024-03-11 20:00:14,633 INFO Total false negatives: 13
+
+2024-03-11 20:00:14,641 INFO Stream # 69: C-2
+2024-03-11 20:02:07,039 INFO normalized prediction error: 0.15
+2024-03-11 20:02:07,050 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2024-03-11 20:02:07,050 INFO Total true positives: 73
+2024-03-11 20:02:07,050 INFO Total false positives: 14
+2024-03-11 20:02:07,050 INFO Total false negatives: 14
+
+2024-03-11 20:02:07,060 INFO Stream # 70: T-12
+2024-03-11 20:06:44,962 INFO normalized prediction error: 0.03
+2024-03-11 20:06:44,982 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 20:06:44,983 INFO Total true positives: 74
+2024-03-11 20:06:44,983 INFO Total false positives: 14
+2024-03-11 20:06:44,983 INFO Total false negatives: 14
+
+2024-03-11 20:06:44,992 INFO Stream # 71: T-13
+2024-03-11 20:10:15,069 INFO normalized prediction error: 0.03
+2024-03-11 20:10:15,079 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2024-03-11 20:10:15,079 INFO Total true positives: 74
+2024-03-11 20:10:15,080 INFO Total false positives: 14
+2024-03-11 20:10:15,080 INFO Total false negatives: 16
+
+2024-03-11 20:10:15,088 INFO Stream # 72: F-4
+2024-03-11 20:20:01,063 INFO normalized prediction error: 0.03
+2024-03-11 20:20:01,232 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 20:20:01,232 INFO Total true positives: 75
+2024-03-11 20:20:01,232 INFO Total false positives: 14
+2024-03-11 20:20:01,232 INFO Total false negatives: 16
+
+2024-03-11 20:20:01,241 INFO Stream # 73: F-5
+2024-03-11 20:30:52,517 INFO normalized prediction error: 0.02
+2024-03-11 20:30:52,789 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 20:30:52,789 INFO Total true positives: 76
+2024-03-11 20:30:52,790 INFO Total false positives: 14
+2024-03-11 20:30:52,790 INFO Total false negatives: 16
+
+2024-03-11 20:30:52,799 INFO Stream # 74: D-14
+2024-03-11 20:39:33,869 INFO normalized prediction error: 0.03
+2024-03-11 20:39:33,938 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2024-03-11 20:39:33,938 INFO Total true positives: 77
+2024-03-11 20:39:33,938 INFO Total false positives: 14
+2024-03-11 20:39:33,939 INFO Total false negatives: 17
+
+2024-03-11 20:39:33,947 INFO Stream # 75: T-9
+2024-03-11 20:40:13,107 INFO normalized prediction error: 0.19
+2024-03-11 20:40:13,111 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2024-03-11 20:40:13,111 INFO Total true positives: 77
+2024-03-11 20:40:13,111 INFO Total false positives: 14
+2024-03-11 20:40:13,111 INFO Total false negatives: 19
+
+2024-03-11 20:40:13,119 INFO Stream # 76: P-14
+2024-03-11 20:45:08,666 INFO normalized prediction error: 0.05
+2024-03-11 20:45:09,052 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 20:45:09,052 INFO Total true positives: 78
+2024-03-11 20:45:09,052 INFO Total false positives: 14
+2024-03-11 20:45:09,052 INFO Total false negatives: 19
+
+2024-03-11 20:45:09,060 INFO Stream # 77: T-8
+2024-03-11 20:47:43,634 INFO normalized prediction error: 0.03
+2024-03-11 20:47:43,644 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 20:47:43,645 INFO Total true positives: 80
+2024-03-11 20:47:43,645 INFO Total false positives: 14
+2024-03-11 20:47:43,645 INFO Total false negatives: 19
+
+2024-03-11 20:47:43,653 INFO Stream # 78: P-11
+2024-03-11 21:03:44,227 INFO normalized prediction error: 0.02
+2024-03-11 21:03:44,425 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 21:03:44,425 INFO Total true positives: 82
+2024-03-11 21:03:44,426 INFO Total false positives: 14
+2024-03-11 21:03:44,426 INFO Total false negatives: 19
+
+2024-03-11 21:03:44,435 INFO Stream # 79: D-15
+2024-03-11 21:12:22,942 INFO normalized prediction error: 0.18
+2024-03-11 21:12:22,949 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 21:12:22,949 INFO Total true positives: 82
+2024-03-11 21:12:22,950 INFO Total false positives: 14
+2024-03-11 21:12:22,950 INFO Total false negatives: 20
+
+2024-03-11 21:12:22,959 INFO Stream # 80: D-16
+2024-03-11 21:18:00,723 INFO normalized prediction error: 0.17
+2024-03-11 21:18:00,735 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 21:18:00,735 INFO Total true positives: 83
+2024-03-11 21:18:00,735 INFO Total false positives: 14
+2024-03-11 21:18:00,736 INFO Total false negatives: 20
+
+2024-03-11 21:18:00,745 INFO Stream # 81: M-7
+2024-03-11 21:22:36,887 INFO normalized prediction error: 0.03
+2024-03-11 21:22:36,911 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 21:22:36,912 INFO Total true positives: 84
+2024-03-11 21:22:36,912 INFO Total false positives: 14
+2024-03-11 21:22:36,912 INFO Total false negatives: 20
+
+2024-03-11 21:22:36,924 INFO Stream # 82: F-8
+2024-03-11 21:36:25,421 INFO normalized prediction error: 0.09
+2024-03-11 21:36:25,445 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 21:36:25,445 INFO Total true positives: 85
+2024-03-11 21:36:25,445 INFO Total false positives: 14
+2024-03-11 21:36:25,445 INFO Total false negatives: 20
+
+2024-03-11 21:36:25,453 INFO Final Totals:
+2024-03-11 21:36:25,454 INFO -----------------
+2024-03-11 21:36:25,454 INFO True Positives: 85
+2024-03-11 21:36:25,454 INFO False Positives: 14
+2024-03-11 21:36:25,454 INFO False Negatives: 20
+
+2024-03-11 21:36:25,454 INFO Precision: 0.86
+2024-03-11 21:36:25,454 INFO Recall: 0.81
+2024-03-11 18:42:29,301 INFO 82 channels found for processing.
+2024-03-11 18:42:29,345 INFO Stream # 1: P-1
+2024-03-11 18:42:29,655 INFO normalized prediction error: 0.09
+2024-03-11 18:42:30,215 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2024-03-11 18:42:30,216 INFO Total true positives: 3
+2024-03-11 18:42:30,216 INFO Total false positives: 0
+2024-03-11 18:42:30,216 INFO Total false negatives: 0
+
+2024-03-11 18:42:30,382 INFO Stream # 2: S-1
+2024-03-11 18:42:30,671 INFO normalized prediction error: 0.18
+2024-03-11 18:42:31,143 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:31,144 INFO Total true positives: 4
+2024-03-11 18:42:31,144 INFO Total false positives: 0
+2024-03-11 18:42:31,145 INFO Total false negatives: 0
+
+2024-03-11 18:42:31,148 INFO Stream # 3: E-1
+2024-03-11 18:42:31,445 INFO normalized prediction error: 0.07
+2024-03-11 18:42:31,983 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 18:42:31,984 INFO Total true positives: 6
+2024-03-11 18:42:31,984 INFO Total false positives: 1
+2024-03-11 18:42:31,984 INFO Total false negatives: 0
+
+2024-03-11 18:42:31,987 INFO Stream # 4: E-2
+2024-03-11 18:42:32,290 INFO normalized prediction error: 0.06
+2024-03-11 18:42:32,750 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:32,750 INFO Total true positives: 7
+2024-03-11 18:42:32,750 INFO Total false positives: 1
+2024-03-11 18:42:32,750 INFO Total false negatives: 0
+
+2024-03-11 18:42:32,754 INFO Stream # 5: E-3
+2024-03-11 18:42:33,092 INFO normalized prediction error: 0.02
+2024-03-11 18:42:33,610 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 18:42:33,610 INFO Total true positives: 8
+2024-03-11 18:42:33,610 INFO Total false positives: 2
+2024-03-11 18:42:33,611 INFO Total false negatives: 0
+
+2024-03-11 18:42:33,614 INFO Stream # 6: E-4
+2024-03-11 18:42:33,911 INFO normalized prediction error: 0.05
+2024-03-11 18:42:34,309 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:34,309 INFO Total true positives: 9
+2024-03-11 18:42:34,309 INFO Total false positives: 2
+2024-03-11 18:42:34,309 INFO Total false negatives: 0
+
+2024-03-11 18:42:34,314 INFO Stream # 7: E-5
+2024-03-11 18:42:34,611 INFO normalized prediction error: 0.09
+2024-03-11 18:42:34,954 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:34,954 INFO Total true positives: 10
+2024-03-11 18:42:34,954 INFO Total false positives: 2
+2024-03-11 18:42:34,954 INFO Total false negatives: 0
+
+2024-03-11 18:42:34,958 INFO Stream # 8: E-6
+2024-03-11 18:42:35,255 INFO normalized prediction error: 0.00
+2024-03-11 18:42:35,856 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:35,857 INFO Total true positives: 11
+2024-03-11 18:42:35,857 INFO Total false positives: 2
+2024-03-11 18:42:35,857 INFO Total false negatives: 0
+
+2024-03-11 18:42:35,860 INFO Stream # 9: E-7
+2024-03-11 18:42:36,152 INFO normalized prediction error: 0.02
+2024-03-11 18:42:36,708 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:36,708 INFO Total true positives: 12
+2024-03-11 18:42:36,708 INFO Total false positives: 2
+2024-03-11 18:42:36,709 INFO Total false negatives: 0
+
+2024-03-11 18:42:36,712 INFO Stream # 10: E-8
+2024-03-11 18:42:37,012 INFO normalized prediction error: 0.07
+2024-03-11 18:42:37,335 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:42:37,336 INFO Total true positives: 12
+2024-03-11 18:42:37,336 INFO Total false positives: 2
+2024-03-11 18:42:37,336 INFO Total false negatives: 1
+
+2024-03-11 18:42:37,339 INFO Stream # 11: E-9
+2024-03-11 18:42:37,635 INFO normalized prediction error: 0.05
+2024-03-11 18:42:37,947 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:37,948 INFO Total true positives: 13
+2024-03-11 18:42:37,948 INFO Total false positives: 2
+2024-03-11 18:42:37,948 INFO Total false negatives: 1
+
+2024-03-11 18:42:37,952 INFO Stream # 12: E-10
+2024-03-11 18:42:38,261 INFO normalized prediction error: 0.09
+2024-03-11 18:42:38,858 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 18:42:38,858 INFO Total true positives: 15
+2024-03-11 18:42:38,858 INFO Total false positives: 3
+2024-03-11 18:42:38,858 INFO Total false negatives: 1
+
+2024-03-11 18:42:38,861 INFO Stream # 13: E-11
+2024-03-11 18:42:39,158 INFO normalized prediction error: 0.08
+2024-03-11 18:42:39,766 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 18:42:39,766 INFO Total true positives: 17
+2024-03-11 18:42:39,766 INFO Total false positives: 4
+2024-03-11 18:42:39,766 INFO Total false negatives: 1
+
+2024-03-11 18:42:39,770 INFO Stream # 14: E-12
+2024-03-11 18:42:40,073 INFO normalized prediction error: 0.07
+2024-03-11 18:42:40,549 INFO Channel Stats: TP: 2  FP: 1  FN: 0
+2024-03-11 18:42:40,549 INFO Total true positives: 19
+2024-03-11 18:42:40,549 INFO Total false positives: 5
+2024-03-11 18:42:40,549 INFO Total false negatives: 1
+
+2024-03-11 18:42:40,552 INFO Stream # 15: E-13
+2024-03-11 18:42:40,856 INFO normalized prediction error: 0.05
+2024-03-11 18:42:41,365 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2024-03-11 18:42:41,365 INFO Total true positives: 21
+2024-03-11 18:42:41,365 INFO Total false positives: 5
+2024-03-11 18:42:41,365 INFO Total false negatives: 2
+
+2024-03-11 18:42:41,369 INFO Stream # 16: A-1
+2024-03-11 18:42:41,669 INFO normalized prediction error: 0.01
+2024-03-11 18:42:42,160 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:42,160 INFO Total true positives: 22
+2024-03-11 18:42:42,160 INFO Total false positives: 5
+2024-03-11 18:42:42,160 INFO Total false negatives: 2
+
+2024-03-11 18:42:42,164 INFO Stream # 17: D-1
+2024-03-11 18:42:42,463 INFO normalized prediction error: 0.06
+2024-03-11 18:42:42,839 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:42,839 INFO Total true positives: 23
+2024-03-11 18:42:42,839 INFO Total false positives: 5
+2024-03-11 18:42:42,839 INFO Total false negatives: 2
+
+2024-03-11 18:42:42,843 INFO Stream # 18: P-2
+2024-03-11 18:42:43,158 INFO normalized prediction error: 0.06
+2024-03-11 18:42:43,523 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:43,523 INFO Total true positives: 24
+2024-03-11 18:42:43,523 INFO Total false positives: 5
+2024-03-11 18:42:43,523 INFO Total false negatives: 2
+
+2024-03-11 18:42:43,528 INFO Stream # 19: P-3
+2024-03-11 18:42:43,825 INFO normalized prediction error: 0.04
+2024-03-11 18:42:44,206 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:44,206 INFO Total true positives: 25
+2024-03-11 18:42:44,206 INFO Total false positives: 5
+2024-03-11 18:42:44,206 INFO Total false negatives: 2
+
+2024-03-11 18:42:44,210 INFO Stream # 20: D-2
+2024-03-11 18:42:44,503 INFO normalized prediction error: 0.36
+2024-03-11 18:42:44,903 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:44,903 INFO Total true positives: 26
+2024-03-11 18:42:44,904 INFO Total false positives: 5
+2024-03-11 18:42:44,904 INFO Total false negatives: 2
+
+2024-03-11 18:42:44,908 INFO Stream # 21: D-3
+2024-03-11 18:42:45,211 INFO normalized prediction error: 0.06
+2024-03-11 18:42:45,574 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:45,574 INFO Total true positives: 27
+2024-03-11 18:42:45,574 INFO Total false positives: 5
+2024-03-11 18:42:45,574 INFO Total false negatives: 2
+
+2024-03-11 18:42:45,579 INFO Stream # 22: D-4
+2024-03-11 18:42:45,880 INFO normalized prediction error: 0.09
+2024-03-11 18:42:46,208 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:46,208 INFO Total true positives: 28
+2024-03-11 18:42:46,208 INFO Total false positives: 5
+2024-03-11 18:42:46,208 INFO Total false negatives: 2
+
+2024-03-11 18:42:46,212 INFO Stream # 23: A-2
+2024-03-11 18:42:46,497 INFO normalized prediction error: 0.08
+2024-03-11 18:42:46,995 INFO Channel Stats: TP: 1  FP: 2  FN: 0
+2024-03-11 18:42:46,995 INFO Total true positives: 29
+2024-03-11 18:42:46,995 INFO Total false positives: 7
+2024-03-11 18:42:46,995 INFO Total false negatives: 2
+
+2024-03-11 18:42:47,000 INFO Stream # 24: A-3
+2024-03-11 18:42:47,284 INFO normalized prediction error: 0.05
+2024-03-11 18:42:47,802 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:47,802 INFO Total true positives: 30
+2024-03-11 18:42:47,802 INFO Total false positives: 7
+2024-03-11 18:42:47,802 INFO Total false negatives: 2
+
+2024-03-11 18:42:47,806 INFO Stream # 25: A-4
+2024-03-11 18:42:48,090 INFO normalized prediction error: 0.06
+2024-03-11 18:42:48,624 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 18:42:48,624 INFO Total true positives: 31
+2024-03-11 18:42:48,624 INFO Total false positives: 8
+2024-03-11 18:42:48,624 INFO Total false negatives: 2
+
+2024-03-11 18:42:48,629 INFO Stream # 26: G-1
+2024-03-11 18:42:48,923 INFO normalized prediction error: 0.07
+2024-03-11 18:42:49,291 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2024-03-11 18:42:49,291 INFO Total true positives: 31
+2024-03-11 18:42:49,291 INFO Total false positives: 9
+2024-03-11 18:42:49,291 INFO Total false negatives: 3
+
+2024-03-11 18:42:49,296 INFO Stream # 27: G-2
+2024-03-11 18:42:49,562 INFO normalized prediction error: 0.01
+2024-03-11 18:42:50,017 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:50,017 INFO Total true positives: 32
+2024-03-11 18:42:50,017 INFO Total false positives: 9
+2024-03-11 18:42:50,017 INFO Total false negatives: 3
+
+2024-03-11 18:42:50,021 INFO Stream # 28: D-5
+2024-03-11 18:42:50,288 INFO normalized prediction error: 0.14
+2024-03-11 18:42:50,615 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:50,615 INFO Total true positives: 33
+2024-03-11 18:42:50,615 INFO Total false positives: 9
+2024-03-11 18:42:50,615 INFO Total false negatives: 3
+
+2024-03-11 18:42:50,620 INFO Stream # 29: D-6
+2024-03-11 18:42:50,889 INFO normalized prediction error: 0.03
+2024-03-11 18:42:51,390 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:51,390 INFO Total true positives: 34
+2024-03-11 18:42:51,390 INFO Total false positives: 9
+2024-03-11 18:42:51,390 INFO Total false negatives: 3
+
+2024-03-11 18:42:51,395 INFO Stream # 30: D-7
+2024-03-11 18:42:51,666 INFO normalized prediction error: 0.06
+2024-03-11 18:42:51,999 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:51,999 INFO Total true positives: 35
+2024-03-11 18:42:51,999 INFO Total false positives: 9
+2024-03-11 18:42:52,000 INFO Total false negatives: 3
+
+2024-03-11 18:42:52,006 INFO Stream # 31: F-1
+2024-03-11 18:42:52,308 INFO normalized prediction error: 0.10
+2024-03-11 18:42:52,738 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2024-03-11 18:42:52,738 INFO Total true positives: 35
+2024-03-11 18:42:52,738 INFO Total false positives: 10
+2024-03-11 18:42:52,738 INFO Total false negatives: 4
+
+2024-03-11 18:42:52,744 INFO Stream # 32: P-4
+2024-03-11 18:42:53,026 INFO normalized prediction error: 0.01
+2024-03-11 18:42:53,762 INFO Channel Stats: TP: 2  FP: 0  FN: 1
+2024-03-11 18:42:53,762 INFO Total true positives: 37
+2024-03-11 18:42:53,762 INFO Total false positives: 10
+2024-03-11 18:42:53,762 INFO Total false negatives: 5
+
+2024-03-11 18:42:53,768 INFO Stream # 33: G-3
+2024-03-11 18:42:54,052 INFO normalized prediction error: 0.01
+2024-03-11 18:42:54,655 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 18:42:54,655 INFO Total true positives: 38
+2024-03-11 18:42:54,655 INFO Total false positives: 11
+2024-03-11 18:42:54,655 INFO Total false negatives: 5
+
+2024-03-11 18:42:54,660 INFO Stream # 34: T-1
+2024-03-11 18:42:54,957 INFO normalized prediction error: 0.04
+2024-03-11 18:42:55,499 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 18:42:55,499 INFO Total true positives: 40
+2024-03-11 18:42:55,499 INFO Total false positives: 11
+2024-03-11 18:42:55,499 INFO Total false negatives: 5
+
+2024-03-11 18:42:55,505 INFO Stream # 35: T-2
+2024-03-11 18:42:55,812 INFO normalized prediction error: 0.05
+2024-03-11 18:42:56,145 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:42:56,145 INFO Total true positives: 40
+2024-03-11 18:42:56,145 INFO Total false positives: 11
+2024-03-11 18:42:56,145 INFO Total false negatives: 6
+
+2024-03-11 18:42:56,151 INFO Stream # 36: D-8
+2024-03-11 18:42:56,466 INFO normalized prediction error: 0.02
+2024-03-11 18:42:57,021 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:57,021 INFO Total true positives: 41
+2024-03-11 18:42:57,021 INFO Total false positives: 11
+2024-03-11 18:42:57,021 INFO Total false negatives: 6
+
+2024-03-11 18:42:57,026 INFO Stream # 37: D-9
+2024-03-11 18:42:57,292 INFO normalized prediction error: 0.04
+2024-03-11 18:42:57,617 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:57,618 INFO Total true positives: 42
+2024-03-11 18:42:57,618 INFO Total false positives: 11
+2024-03-11 18:42:57,618 INFO Total false negatives: 6
+
+2024-03-11 18:42:57,623 INFO Stream # 38: F-2
+2024-03-11 18:42:57,912 INFO normalized prediction error: 0.07
+2024-03-11 18:42:58,494 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:58,494 INFO Total true positives: 43
+2024-03-11 18:42:58,494 INFO Total false positives: 11
+2024-03-11 18:42:58,495 INFO Total false negatives: 6
+
+2024-03-11 18:42:58,500 INFO Stream # 39: G-4
+2024-03-11 18:42:58,782 INFO normalized prediction error: 0.00
+2024-03-11 18:42:59,380 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:42:59,380 INFO Total true positives: 44
+2024-03-11 18:42:59,380 INFO Total false positives: 11
+2024-03-11 18:42:59,380 INFO Total false negatives: 6
+
+2024-03-11 18:42:59,386 INFO Stream # 40: T-3
+2024-03-11 18:42:59,676 INFO normalized prediction error: 0.02
+2024-03-11 18:43:00,285 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 18:43:00,285 INFO Total true positives: 46
+2024-03-11 18:43:00,285 INFO Total false positives: 11
+2024-03-11 18:43:00,285 INFO Total false negatives: 6
+
+2024-03-11 18:43:00,291 INFO Stream # 41: D-11
+2024-03-11 18:43:00,566 INFO normalized prediction error: 0.02
+2024-03-11 18:43:00,999 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:00,999 INFO Total true positives: 47
+2024-03-11 18:43:00,999 INFO Total false positives: 11
+2024-03-11 18:43:00,999 INFO Total false negatives: 6
+
+2024-03-11 18:43:01,005 INFO Stream # 42: D-12
+2024-03-11 18:43:01,193 INFO normalized prediction error: 0.06
+2024-03-11 18:43:01,607 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:01,607 INFO Total true positives: 48
+2024-03-11 18:43:01,607 INFO Total false positives: 11
+2024-03-11 18:43:01,607 INFO Total false negatives: 6
+
+2024-03-11 18:43:01,613 INFO Stream # 43: B-1
+2024-03-11 18:43:01,891 INFO normalized prediction error: 0.03
+2024-03-11 18:43:02,484 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:02,484 INFO Total true positives: 49
+2024-03-11 18:43:02,484 INFO Total false positives: 11
+2024-03-11 18:43:02,484 INFO Total false negatives: 6
+
+2024-03-11 18:43:02,490 INFO Stream # 44: G-6
+2024-03-11 18:43:02,763 INFO normalized prediction error: 0.02
+2024-03-11 18:43:03,305 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:03,305 INFO Total true positives: 50
+2024-03-11 18:43:03,305 INFO Total false positives: 11
+2024-03-11 18:43:03,305 INFO Total false negatives: 6
+
+2024-03-11 18:43:03,310 INFO Stream # 45: G-7
+2024-03-11 18:43:03,561 INFO normalized prediction error: 0.03
+2024-03-11 18:43:04,270 INFO Channel Stats: TP: 3  FP: 0  FN: 0
+2024-03-11 18:43:04,271 INFO Total true positives: 53
+2024-03-11 18:43:04,271 INFO Total false positives: 11
+2024-03-11 18:43:04,271 INFO Total false negatives: 6
+
+2024-03-11 18:43:04,276 INFO Stream # 46: P-7
+2024-03-11 18:43:04,527 INFO normalized prediction error: 0.03
+2024-03-11 18:43:04,939 INFO Channel Stats: TP: 1  FP: 1  FN: 0
+2024-03-11 18:43:04,940 INFO Total true positives: 54
+2024-03-11 18:43:04,940 INFO Total false positives: 12
+2024-03-11 18:43:04,940 INFO Total false negatives: 6
+
+2024-03-11 18:43:04,946 INFO Stream # 47: R-1
+2024-03-11 18:43:05,178 INFO normalized prediction error: 0.00
+2024-03-11 18:43:05,721 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:05,721 INFO Total true positives: 55
+2024-03-11 18:43:05,721 INFO Total false positives: 12
+2024-03-11 18:43:05,721 INFO Total false negatives: 6
+
+2024-03-11 18:43:05,727 INFO Stream # 48: A-5
+2024-03-11 18:43:05,848 INFO normalized prediction error: 0.07
+2024-03-11 18:43:06,009 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:06,009 INFO Total true positives: 56
+2024-03-11 18:43:06,009 INFO Total false positives: 12
+2024-03-11 18:43:06,009 INFO Total false negatives: 6
+
+2024-03-11 18:43:06,015 INFO Stream # 49: A-6
+2024-03-11 18:43:06,115 INFO normalized prediction error: 0.02
+2024-03-11 18:43:06,394 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:06,394 INFO Total true positives: 57
+2024-03-11 18:43:06,395 INFO Total false positives: 12
+2024-03-11 18:43:06,395 INFO Total false negatives: 6
+
+2024-03-11 18:43:06,401 INFO Stream # 50: A-7
+2024-03-11 18:43:06,625 INFO normalized prediction error: 0.06
+2024-03-11 18:43:07,135 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:07,135 INFO Total true positives: 58
+2024-03-11 18:43:07,135 INFO Total false positives: 12
+2024-03-11 18:43:07,135 INFO Total false negatives: 6
+
+2024-03-11 18:43:07,141 INFO Stream # 51: D-13
+2024-03-11 18:43:07,330 INFO normalized prediction error: 0.16
+2024-03-11 18:43:07,723 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:07,723 INFO Total true positives: 59
+2024-03-11 18:43:07,723 INFO Total false positives: 12
+2024-03-11 18:43:07,724 INFO Total false negatives: 6
+
+2024-03-11 18:43:07,730 INFO Stream # 52: P-2
+2024-03-11 18:43:07,939 INFO normalized prediction error: 0.06
+2024-03-11 18:43:08,317 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:08,317 INFO Total true positives: 60
+2024-03-11 18:43:08,318 INFO Total false positives: 12
+2024-03-11 18:43:08,318 INFO Total false negatives: 6
+
+2024-03-11 18:43:08,324 INFO Stream # 53: A-8
+2024-03-11 18:43:08,494 INFO normalized prediction error: 0.13
+2024-03-11 18:43:08,863 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:08,863 INFO Total true positives: 61
+2024-03-11 18:43:08,863 INFO Total false positives: 12
+2024-03-11 18:43:08,863 INFO Total false negatives: 6
+
+2024-03-11 18:43:08,869 INFO Stream # 54: A-9
+2024-03-11 18:43:09,031 INFO normalized prediction error: 0.63
+2024-03-11 18:43:09,395 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:43:09,395 INFO Total true positives: 61
+2024-03-11 18:43:09,395 INFO Total false positives: 12
+2024-03-11 18:43:09,395 INFO Total false negatives: 7
+
+2024-03-11 18:43:09,401 INFO Stream # 55: F-3
+2024-03-11 18:43:09,627 INFO normalized prediction error: 0.01
+2024-03-11 18:43:09,938 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:43:09,939 INFO Total true positives: 61
+2024-03-11 18:43:09,939 INFO Total false positives: 12
+2024-03-11 18:43:09,939 INFO Total false negatives: 8
+
+2024-03-11 18:43:09,946 INFO Stream # 56: M-6
+2024-03-11 18:43:10,122 INFO normalized prediction error: 0.05
+2024-03-11 18:43:10,132 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:10,133 INFO Total true positives: 62
+2024-03-11 18:43:10,133 INFO Total false positives: 12
+2024-03-11 18:43:10,133 INFO Total false negatives: 8
+
+2024-03-11 18:43:10,139 INFO Stream # 57: M-1
+2024-03-11 18:43:10,364 INFO normalized prediction error: 0.07
+2024-03-11 18:43:10,369 INFO Channel Stats: TP: 0  FP: 1  FN: 1
+2024-03-11 18:43:10,370 INFO Total true positives: 62
+2024-03-11 18:43:10,370 INFO Total false positives: 13
+2024-03-11 18:43:10,370 INFO Total false negatives: 9
+
+2024-03-11 18:43:10,376 INFO Stream # 58: M-2
+2024-03-11 18:43:10,621 INFO normalized prediction error: 0.11
+2024-03-11 18:43:10,625 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:43:10,625 INFO Total true positives: 62
+2024-03-11 18:43:10,625 INFO Total false positives: 13
+2024-03-11 18:43:10,626 INFO Total false negatives: 10
+
+2024-03-11 18:43:10,631 INFO Stream # 59: S-2
+2024-03-11 18:43:10,761 INFO normalized prediction error: 0.03
+2024-03-11 18:43:10,771 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:10,771 INFO Total true positives: 63
+2024-03-11 18:43:10,771 INFO Total false positives: 13
+2024-03-11 18:43:10,771 INFO Total false negatives: 10
+
+2024-03-11 18:43:10,777 INFO Stream # 60: P-10
+2024-03-11 18:43:11,391 INFO normalized prediction error: 0.02
+2024-03-11 18:43:11,709 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:11,709 INFO Total true positives: 64
+2024-03-11 18:43:11,709 INFO Total false positives: 13
+2024-03-11 18:43:11,709 INFO Total false negatives: 10
+
+2024-03-11 18:43:11,717 INFO Stream # 61: T-4
+2024-03-11 18:43:12,082 INFO normalized prediction error: 0.12
+2024-03-11 18:43:12,088 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:43:12,088 INFO Total true positives: 64
+2024-03-11 18:43:12,088 INFO Total false positives: 13
+2024-03-11 18:43:12,088 INFO Total false negatives: 11
+
+2024-03-11 18:43:12,094 INFO Stream # 62: T-5
+2024-03-11 18:43:12,312 INFO normalized prediction error: 0.03
+2024-03-11 18:43:12,323 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:12,323 INFO Total true positives: 65
+2024-03-11 18:43:12,323 INFO Total false positives: 13
+2024-03-11 18:43:12,323 INFO Total false negatives: 11
+
+2024-03-11 18:43:12,329 INFO Stream # 63: F-7
+2024-03-11 18:43:12,667 INFO normalized prediction error: 0.18
+2024-03-11 18:43:12,898 INFO Channel Stats: TP: 3  FP: 1  FN: 0
+2024-03-11 18:43:12,898 INFO Total true positives: 68
+2024-03-11 18:43:12,898 INFO Total false positives: 14
+2024-03-11 18:43:12,898 INFO Total false negatives: 11
+
+2024-03-11 18:43:12,905 INFO Stream # 64: M-3
+2024-03-11 18:43:13,182 INFO normalized prediction error: 0.09
+2024-03-11 18:43:13,191 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:13,192 INFO Total true positives: 69
+2024-03-11 18:43:13,192 INFO Total false positives: 14
+2024-03-11 18:43:13,192 INFO Total false negatives: 11
+
+2024-03-11 18:43:13,199 INFO Stream # 65: M-4
+2024-03-11 18:43:13,440 INFO normalized prediction error: 0.12
+2024-03-11 18:43:13,448 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:13,449 INFO Total true positives: 70
+2024-03-11 18:43:13,449 INFO Total false positives: 14
+2024-03-11 18:43:13,449 INFO Total false negatives: 11
+
+2024-03-11 18:43:13,456 INFO Stream # 66: M-5
+2024-03-11 18:43:13,705 INFO normalized prediction error: 0.10
+2024-03-11 18:43:13,712 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:13,712 INFO Total true positives: 71
+2024-03-11 18:43:13,712 INFO Total false positives: 14
+2024-03-11 18:43:13,712 INFO Total false negatives: 11
+
+2024-03-11 18:43:13,719 INFO Stream # 67: P-15
+2024-03-11 18:43:14,080 INFO normalized prediction error: 0.08
+2024-03-11 18:43:14,105 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:43:14,105 INFO Total true positives: 71
+2024-03-11 18:43:14,105 INFO Total false positives: 14
+2024-03-11 18:43:14,105 INFO Total false negatives: 12
+
+2024-03-11 18:43:14,111 INFO Stream # 68: C-1
+2024-03-11 18:43:14,342 INFO normalized prediction error: 0.03
+2024-03-11 18:43:14,352 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2024-03-11 18:43:14,352 INFO Total true positives: 72
+2024-03-11 18:43:14,352 INFO Total false positives: 14
+2024-03-11 18:43:14,352 INFO Total false negatives: 13
+
+2024-03-11 18:43:14,359 INFO Stream # 69: C-2
+2024-03-11 18:43:14,484 INFO normalized prediction error: 0.15
+2024-03-11 18:43:14,492 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2024-03-11 18:43:14,492 INFO Total true positives: 73
+2024-03-11 18:43:14,492 INFO Total false positives: 14
+2024-03-11 18:43:14,492 INFO Total false negatives: 14
+
+2024-03-11 18:43:14,498 INFO Stream # 70: T-12
+2024-03-11 18:43:14,658 INFO normalized prediction error: 0.03
+2024-03-11 18:43:14,672 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:14,672 INFO Total true positives: 74
+2024-03-11 18:43:14,672 INFO Total false positives: 14
+2024-03-11 18:43:14,672 INFO Total false negatives: 14
+
+2024-03-11 18:43:14,678 INFO Stream # 71: T-13
+2024-03-11 18:43:14,823 INFO normalized prediction error: 0.03
+2024-03-11 18:43:14,830 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2024-03-11 18:43:14,831 INFO Total true positives: 74
+2024-03-11 18:43:14,831 INFO Total false positives: 14
+2024-03-11 18:43:14,831 INFO Total false negatives: 16
+
+2024-03-11 18:43:14,837 INFO Stream # 72: F-4
+2024-03-11 18:43:15,123 INFO normalized prediction error: 0.03
+2024-03-11 18:43:15,212 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:15,212 INFO Total true positives: 75
+2024-03-11 18:43:15,213 INFO Total false positives: 14
+2024-03-11 18:43:15,213 INFO Total false negatives: 16
+
+2024-03-11 18:43:15,221 INFO Stream # 73: F-5
+2024-03-11 18:43:15,539 INFO normalized prediction error: 0.02
+2024-03-11 18:43:15,715 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:15,715 INFO Total true positives: 76
+2024-03-11 18:43:15,715 INFO Total false positives: 14
+2024-03-11 18:43:15,715 INFO Total false negatives: 16
+
+2024-03-11 18:43:15,722 INFO Stream # 74: D-14
+2024-03-11 18:43:16,063 INFO normalized prediction error: 0.03
+2024-03-11 18:43:16,096 INFO Channel Stats: TP: 1  FP: 0  FN: 1
+2024-03-11 18:43:16,096 INFO Total true positives: 77
+2024-03-11 18:43:16,096 INFO Total false positives: 14
+2024-03-11 18:43:16,096 INFO Total false negatives: 17
+
+2024-03-11 18:43:16,103 INFO Stream # 75: T-9
+2024-03-11 18:43:16,196 INFO normalized prediction error: 0.19
+2024-03-11 18:43:16,199 INFO Channel Stats: TP: 0  FP: 0  FN: 2
+2024-03-11 18:43:16,199 INFO Total true positives: 77
+2024-03-11 18:43:16,199 INFO Total false positives: 14
+2024-03-11 18:43:16,199 INFO Total false negatives: 19
+
+2024-03-11 18:43:16,206 INFO Stream # 76: P-14
+2024-03-11 18:43:16,569 INFO normalized prediction error: 0.05
+2024-03-11 18:43:16,845 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:16,845 INFO Total true positives: 78
+2024-03-11 18:43:16,845 INFO Total false positives: 14
+2024-03-11 18:43:16,845 INFO Total false negatives: 19
+
+2024-03-11 18:43:16,853 INFO Stream # 77: T-8
+2024-03-11 18:43:16,995 INFO normalized prediction error: 0.03
+2024-03-11 18:43:17,002 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 18:43:17,003 INFO Total true positives: 80
+2024-03-11 18:43:17,003 INFO Total false positives: 14
+2024-03-11 18:43:17,003 INFO Total false negatives: 19
+
+2024-03-11 18:43:17,010 INFO Stream # 78: P-11
+2024-03-11 18:43:17,376 INFO normalized prediction error: 0.02
+2024-03-11 18:43:17,491 INFO Channel Stats: TP: 2  FP: 0  FN: 0
+2024-03-11 18:43:17,492 INFO Total true positives: 82
+2024-03-11 18:43:17,492 INFO Total false positives: 14
+2024-03-11 18:43:17,492 INFO Total false negatives: 19
+
+2024-03-11 18:43:17,498 INFO Stream # 79: D-15
+2024-03-11 18:43:17,735 INFO normalized prediction error: 0.18
+2024-03-11 18:43:17,740 INFO Channel Stats: TP: 0  FP: 0  FN: 1
+2024-03-11 18:43:17,740 INFO Total true positives: 82
+2024-03-11 18:43:17,740 INFO Total false positives: 14
+2024-03-11 18:43:17,740 INFO Total false negatives: 20
+
+2024-03-11 18:43:17,747 INFO Stream # 80: D-16
+2024-03-11 18:43:17,907 INFO normalized prediction error: 0.17
+2024-03-11 18:43:17,913 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:17,913 INFO Total true positives: 83
+2024-03-11 18:43:17,913 INFO Total false positives: 14
+2024-03-11 18:43:17,913 INFO Total false negatives: 20
+
+2024-03-11 18:43:17,920 INFO Stream # 81: M-7
+2024-03-11 18:43:18,108 INFO normalized prediction error: 0.03
+2024-03-11 18:43:18,119 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:18,119 INFO Total true positives: 84
+2024-03-11 18:43:18,119 INFO Total false positives: 14
+2024-03-11 18:43:18,119 INFO Total false negatives: 20
+
+2024-03-11 18:43:18,126 INFO Stream # 82: F-8
+2024-03-11 18:43:18,421 INFO normalized prediction error: 0.09
+2024-03-11 18:43:18,437 INFO Channel Stats: TP: 1  FP: 0  FN: 0
+2024-03-11 18:43:18,437 INFO Total true positives: 85
+2024-03-11 18:43:18,437 INFO Total false positives: 14
+2024-03-11 18:43:18,437 INFO Total false negatives: 20
+
+2024-03-11 18:43:18,444 INFO Final Totals:
+2024-03-11 18:43:18,444 INFO -----------------
+2024-03-11 18:43:18,444 INFO True Positives: 85
+2024-03-11 18:43:18,444 INFO False Positives: 14
+2024-03-11 18:43:18,444 INFO False Negatives: 20
+
+2024-03-11 18:43:18,444 INFO Precision: 0.86
+2024-03-11 18:43:18,444 INFO Recall: 0.81
