@@ -1,8 +1,8 @@
 # Runtime params
 #===================================
-train: True # train new or existing model for each channel
-predict: True # generate new predicts or, if False, use predictions stored locally
-use_id: "2018-05-19_15.00.10"
+train: False # train new or existing model for each channel
+predict: False # generate new predicts or, if False, use predictions stored locally
+use_id: "2024-03-11_11.04.26"
 
 # number of values to evaluate in each batch
 batch_size: 70
