@@ -3,7 +3,7 @@
 Our main objective is to develop a system that can detect any unusual activity in the data collected from NASA satellites and spacecraft. The system is designed to identify any anomalies and notify technicians, thereby reducing the time and effort required to manually review all the data. Our aim is to minimize the number of false detections (both positive and negative) in order to achieve maximum accuracy.
 
 ## Project Scenario
-NASA has developed an innovative approach called dynamic thresholding to detect anomalies in telemetry data using LSTM models. I have fine-tuned and improved the model's performance to achieve greater accuracy and minimize false detections. This system reduces the monitoring burden on operations engineers and minimizes operational risk, bringing us closer to unlocking the mysteries of the universe.
+NASA has developed an innovative approach called dynamic thresholding to detect anomalies in time series data using LSTM models. I have fine-tuned and improved the model's performance to achieve greater accuracy and minimize false detections. This system reduces the monitoring burden on operations engineers and minimizes operational risk, bringing us closer to unlocking the mysteries of the universe.
 
 ## Anomaly in Time Series
 ### What is an anomaly in time series data?
