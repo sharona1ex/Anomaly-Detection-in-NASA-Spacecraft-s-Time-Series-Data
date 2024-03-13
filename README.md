@@ -29,3 +29,40 @@ With regards to time series, any unusual value that seems to be out of normal is
 ## Anomaly Detection System Architecture
 ![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/33474489-c533-4e0d-8a3c-c24aa30ea403)
 
+## Dataset - Overview
+We have the anonymized data from two satellites, Soil Moisture Active Passive satellite (SMAP) and the Curiosity Rover on Mars (MSL). The data is placed in `./data/train` and `./data/test`. (You can find this open sourced [data](https://s3-us-west-2.amazonaws.com/telemanom/data.zip) here as well.) The filename should be a unique channel name or ID (like A-1.npy, G-6.npy etc.). The telemetry values being predicted in the test data must be the first feature in the input.
+
+For example, a channel T-1 should have train/test sets named T-1.npy with shapes akin to (4900,61) and (3925, 61), where the number of input dimensions are matching (61). The actual telemetry values should be along the first dimension (4900,1) and (3925,1).
+
+![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/c834f269-d075-4ef5-a8b3-28c83fecfb10)
+
+We have a labelled dataset for checking the accuracy of our anomaly detection, that file is `labeled_anomalies.csv` which includes:
+
+- `channel id`: anonymized channel id - first letter represents nature of channel (P = power, R = radiation, etc.)
+- `spacecraft`: spacecraft that generated telemetry stream
+- `anomaly_sequences`: start and end indices of true anomalies in stream
+- `class`: the class of anomaly
+- `num values`: number of telemetry values in each stream
+
+## Model Architecture - LSTM
+(A high level view of model structure)
+![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/0bc854db-179c-4952-809d-8f6a0e7eae03)
+
+To understand the structure of the model, it is important to understand the shape of input data.Once you process the data for a single channel, your training data will have the following shape:
+
+`X_train shape`: (2620, 250, 25)  The 2nd and 3rd dimension of the X_train tensor is going to be same for every channel and the first dimension is just the number of samples that can vary with channels.
+
+
+| Model Parameter        | Values |
+|------------------------|--------|
+| LSTM1 Input Layer Size | 250    |
+| LSTM1 Hidden Layer Size| 80     |
+| Dropout Layer          | 0.3    |
+| LSTM2 Hidden Layer Size| 40     |
+| Dropout Layer          | 0.3    |
+| Dense Output Layer Size| 10     |
+| Activation Function    | linear |
+| Loss Metric            | mse    |
+| Optimizer              | adam   |
+
+
