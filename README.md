@@ -45,7 +45,10 @@ We have a labelled dataset for checking the accuracy of our anomaly detection, t
 - `num values`: number of telemetry values in each stream
 
 ## Model Architecture - LSTM
-(A high level view of model structure)
+The inherent properties of LSTMs makes them an ideal candidate for anomaly detection tasks involving time-series, non-linear numeric streams of data. LSTMs are capable of learning the relationship between past data values and current data values and representing that relationship in the form of learned weights. These advantages have motivated the use of LSTM networks in several recent anomaly detection tasks related papers.
+
+For our purpose we have also chosen LSTM model, for which you can see the high level view below,
+
 ![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/0bc854db-179c-4952-809d-8f6a0e7eae03)
 
 To understand the structure of the model, it is important to understand the shape of input data.Once you process the data for a single channel, your training data will have the following shape:
@@ -65,4 +68,33 @@ To understand the structure of the model, it is important to understand the shap
 | Loss Metric            | mse    |
 | Optimizer              | adam   |
 
+## Dynamic Thresholding
+It is a method for analyzing the residuals to compute an appropriate lower and upper threshold to flag the anomalous values and sequences.
 
+Steps for Dynamic Threshold Calculation (Taken from paper):
+1. Compute residuals $e_{s}=| y_{t} - \hat{y}_{t}|$
+2. Smooth out the residuals using exponentially weighted moving average.
+3. Calculate $\mu(e_{s})$ and $\sigma(e_{s})$
+4. Compute $\epsilon=\mu(e_{s}) + z*\sigma(e_{s})$ for $z$ value from two to ten (This range is empirical).
+5. Compute the best threshold using below equation,
+
+   $\epsilon = \text{argmax}(\epsilon) = \large{\frac{\Delta\mu(e_s)/\mu(e_s) + \Delta\sigma(e_s)/\sigma(e_s)} {\left( |e_{a}| + |E_{seq}|^2 \right)}}$
+
+   $\text{Such that:}$
+
+   $\Delta\mu(e_s) = \mu(e_s) - \mu(\{e_{s} < \epsilon \})$
+
+   $\Delta\sigma(e_s) = \sigma(e_s) - \sigma(\{e_s < \epsilon \})$
+
+   $e_{a} = \{e_s > \epsilon \}$
+
+   $E_{seq} = \text{continuous sequences of } e_{a} 's$
+
+## Anomaly pruning
+Once a dynamic threhsold is found we are capable of flagging anomalies. However, large number of false positives can be trouble. To reduce the number of false positives we use anomaly pruning where we reclassify certain anomalous sequences as nominal based on a criteria described below,
+1. Create a new set $e_{max} = {max(E_{seq} \text{ from the set of }E_{seq}'s)}$
+2. Add to this set the $max(\text{non anomalous errors})$
+3. Sort this set in descending order.
+4. Step through this set of residuals and compute percentage difference from the previous residual.
+5. If the % difference at position $i$ is greater than $p$ (a value that's empirical to NASA) then all the residuals before $i$ would remain anomalous.
+6. If this violation of $p$ doesn't happen after position $i$ then those residuals after position $i$ would be re-classified as nominal.
