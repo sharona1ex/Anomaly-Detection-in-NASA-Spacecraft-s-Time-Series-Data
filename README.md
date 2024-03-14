@@ -115,3 +115,4 @@ With this equation, we get an $F_{0.5}=0.849$ that is higher than the scores in 
 
 ## References
 1. Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding - [Paper](https://arxiv.org/pdf/1802.04431.pdf)
+2. Machine Learning for Time Series Anomaly Detection - [Report](https://dspace.mit.edu/bitstream/handle/1721.1/123129/1128282917-MIT.pdf?sequence=1&isAllowed=y)
