@@ -47,28 +47,33 @@ We have a labelled dataset for checking the accuracy of our anomaly detection, t
 - `num values`: number of telemetry values in each stream
 
 ## Model Architecture - LSTM
-The inherent properties of LSTMs makes them an ideal candidate for anomaly detection tasks involving time-series, non-linear numeric streams of data. LSTMs are capable of learning the relationship between past data values and current data values and representing that relationship in the form of learned weights. These advantages have motivated the use of LSTM networks in several recent anomaly detection tasks related papers.
+The inherent properties of LSTMs makes them an ideal candidate for anomaly detection tasks involving time-series, non-linear numeric streams of data. LSTMs are capable of learning the relationship between past data values and current data values and representing that relationship in the form of learned weights. These advantages have motivated the use of LSTM networks in several recent anomaly detection tasks related papers.
 
 For our purpose we have also chosen LSTM model, for which you can see the high level view below,
 
 ![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/0bc854db-179c-4952-809d-8f6a0e7eae03)
 
-To understand the structure of the model, it is important to understand the shape of input data.Once you process the data for a single channel, your training data will have the following shape:
+To understand the structure of the model, it is important to understand the shape of input data. Let's suppose we are creating a model a for channel A-1, once you process the data for a channel A-1, your training data will have the following shape:
 
-`X_train shape`: (2620, 250, 25)  The 2nd and 3rd dimension of the X_train tensor is going to be same for every channel and the first dimension is just the number of samples that can vary with channels.
+`X_train shape`: (2620, 250, 25)  The 2nd dimension (the time steps) of the X_train is going to be same for every channel. The first and third dimension is just the number of samples and features that can vary with channels.
 
+`y_train shape`: (2620, 10, 1) The 2nd dimension (10 steps into the future) is the label that the model has to predict. The third dimension is the feature, called telemetry signal value that is what is being predicted.  
 
-| Model Parameter        | Values |
-|------------------------|--------|
-| LSTM1 Input Layer Size | 250    |
-| LSTM1 Hidden Layer Size| 80     |
-| Dropout Layer          | 0.3    |
-| LSTM2 Hidden Layer Size| 40     |
-| Dropout Layer          | 0.3    |
-| Dense Output Layer Size| 10     |
-| Activation Function    | linear |
-| Loss Metric            | mse    |
-| Optimizer              | adam   |
+(In nutshell, we are using all the features from 250 timesteps in history to train the model to predict one feature upto 10 time steps ahead)
+
+This table below are the parameters for channel A-1 signal. The only parameter that changes w.r.t to a channel is the LSTM input layer size, it is basically put as `(None, X_train.shape[2])`.
+
+| Model Parameter         | Values   |
+|-------------------------|----------|
+| LSTM1 Input Layer Size  | (250, 25)|
+| LSTM1 Hidden Layer Size | 80       |
+| Dropout Layer           | 0.3      |
+| LSTM2 Hidden Layer Size | 40       |
+| Dropout Layer           | 0.3      |
+| Dense Output Layer Size | 10       |
+| Activation Function     | linear   |
+| Loss Metric             | mse      |
+| Optimizer               | adam     |
 
 ## Dynamic Thresholding
 It is a method for analyzing the residuals to compute an appropriate lower and upper threshold to flag the anomalous values and sequences.
@@ -107,3 +112,6 @@ The model is evaluated using $F_{0.5}-score$. This metric is the weighted harmon
 $F_{0.5} = \large{\frac{((1 + \beta^2) * Precision * Recall)}{(\beta^2 * Precision + Recall)}}$
 
 With this equation, we get an $F_{0.5}=0.849$ that is higher than the scores in NASA's paper.
+
+## References
+1. Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding - [Paper](https://arxiv.org/pdf/1802.04431.pdf)
