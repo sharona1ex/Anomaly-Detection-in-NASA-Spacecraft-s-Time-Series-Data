@@ -30,7 +30,7 @@ With regards to time series, any unusual value that seems to be out of normal is
 * These anomalies often require contextual information or domain knowledge to distinguish them from normal variations in the data.
 * Contextual anomalies can be caused by subtle changes in underlying conditions, shifts in behavior over time, or contextual dependencies within the time series.
 
-Note: This project has classified anomalies into two categories, point and contextual. (Infact, here we have clubbed the collective and contextual anomalies together, calling it contextual anomalies)
+Note: This project has classified anomalies into two categories, point and contextual. (Here, we have clubbed the collective and contextual anomalies together, calling it contextual anomalies)
 
 ## Anomaly Detection System Architecture
 ![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/33474489-c533-4e0d-8a3c-c24aa30ea403)
