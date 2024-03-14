@@ -1,4 +1,6 @@
 # Anomaly Detection in NASA Spacecraft Sensor Data
+<img src="https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/6f87ede5-f5ba-4c1f-a877-32788fcb1f7f" width="600">
+
 ## Objective
 To develop a system that can detect any unusual activity in the data collected from NASA satellites and spacecraft. The system is designed to identify any anomalies and notify technicians, thereby reducing the time and effort required to manually review all the data. My aim is to minimize the number of false detections (both positive and negative) in order to achieve maximum accuracy and to improve the architecture's present performance.
 
