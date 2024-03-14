@@ -98,3 +98,10 @@ Once a dynamic threhsold is found we are capable of flagging anomalies. However,
 4. Step through this set of residuals and compute percentage difference from the previous residual.
 5. If the % difference at position $i$ is greater than $p$ (a value that's empirical to NASA) then all the residuals before $i$ would remain anomalous.
 6. If this violation of $p$ doesn't happen after position $i$ then those residuals after position $i$ would be re-classified as nominal.
+
+## Evaluation of model
+The model is evaluated using $F_{0.5}-score$. This metric is the weighted harmonic average of precision and recall. The model in repo is tuned to achieve `precision=0.86` and `recall=0.81`
+
+$F_{0.5} = \large{\frac{((1 + \beta^2) * Precision * Recall)}{(\beta^2 * Precision + Recall)}}$
+
+With this equation, we get an $F_{0.5}=0.849$ that is higher than the scores in NASA's paper.
