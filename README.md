@@ -1,9 +1,9 @@
 # Anomaly Detection in NASA Spacecraft Sensor Data
 ## Objective
-Our main objective is to develop a system that can detect any unusual activity in the data collected from NASA satellites and spacecraft. The system is designed to identify any anomalies and notify technicians, thereby reducing the time and effort required to manually review all the data. Our aim is to minimize the number of false detections (both positive and negative) in order to achieve maximum accuracy.
+To develop a system that can detect any unusual activity in the data collected from NASA satellites and spacecraft. The system is designed to identify any anomalies and notify technicians, thereby reducing the time and effort required to manually review all the data. My aim is to minimize the number of false detections (both positive and negative) in order to achieve maximum accuracy and to improve the architecture's present performance.
 
 ## Project Scenario
-NASA has developed an innovative approach called dynamic thresholding to detect anomalies in time series data using LSTM models. I have fine-tuned and improved the model's performance to achieve greater accuracy and minimize false detections. This system reduces the monitoring burden on operations engineers and minimizes operational risk, bringing us closer to unlocking the mysteries of the universe.
+NASA has developed an innovative approach called dynamic thresholding to detect anomalies in time series data using LSTM models. I have fine-tuned and improved the model's performance to achieve greater accuracy and minimize false detections using anomaly pruning. This system reduces the monitoring burden on operations engineers and minimizes operational risk, bringing us closer to unlocking the mysteries of the universe.
 
 ## Anomaly in Time Series
 ### What is an anomaly in time series data?
@@ -25,6 +25,8 @@ With regards to time series, any unusual value that seems to be out of normal is
 * Unlike point anomalies, contextual anomalies are identified by comparing a data point to its surrounding context or historical pattern within a specific time window.
 * These anomalies often require contextual information or domain knowledge to distinguish them from normal variations in the data.
 * Contextual anomalies can be caused by subtle changes in underlying conditions, shifts in behavior over time, or contextual dependencies within the time series.
+
+Note: NASA engineers have classified anomalies into two categories, point and contextual. (Infact, they have clubbed the collective and contextual anomalies together, calling it contextual anomalies)
 
 ## Anomaly Detection System Architecture
 ![image](https://github.com/StarRider/Anomaly-Detection-in-NASA-Spacecraft-s-Time-Series-Data/assets/30108439/33474489-c533-4e0d-8a3c-c24aa30ea403)
