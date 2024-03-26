@@ -111,7 +111,7 @@ Once a dynamic threhsold is found we are capable of flagging anomalies. However,
 6. If this violation of $p$ doesn't happen after position $i$ then those residuals after position $i$ would be re-classified as nominal.
 
 ## Evaluation of model
-The model is evaluated using $F_{0.5}-score$. This metric is the weighted harmonic average of precision and recall. The model in repo is tuned to achieve `precision=0.86` and `recall=0.81`
+The model is evaluated using $F_{0.5}-score$. This metric is puts more weightage on precision and less weightage on recall. The model in repo is tuned to achieve `precision=0.86` and `recall=0.81`
 
 $F_{0.5} = \large{\frac{((1 + \beta^2) * Precision * Recall)}{(\beta^2 * Precision + Recall)}}$
 
